@@ -1,0 +1,698 @@
+11-Mar-2020 23:28:56 CDT  Initiating request to open file file:data/store_mc_RunIISpring18MiniAOD_BulkGravTohhTohbbhbb_narrow_M-2000_13TeV-madgraph_MINIAODSIM_100X_upgrade2018_realistic_v10-v1_30000_24A0230C-B530-E811-ADE3-14187741120B.root
+11-Mar-2020 23:28:57 CDT  Successfully opened file file:data/store_mc_RunIISpring18MiniAOD_BulkGravTohhTohbbhbb_narrow_M-2000_13TeV-madgraph_MINIAODSIM_100X_upgrade2018_realistic_v10-v1_30000_24A0230C-B530-E811-ADE3-14187741120B.root
+Begin processing the 1st record. Run 1, Event 4358, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:57.701 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4358
+Load time: 26596
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4358
+Image array time: 14
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Remote time: 30281
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Output time: 21
+%MSG
+  Request count: 1
+  Avg request latency: 23893 usec (overhead 24 usec + queue 83 usec + compute 23786 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Client time: 41718
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4358
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4358
+Scores:
+
+%MSG
+Begin processing the 2nd record. Run 1, Event 4355, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:57.796 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4355
+Load time: 2904
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4355
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Remote time: 24556
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 20414 usec (overhead 19 usec + queue 34 usec + compute 20361 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Client time: 30279
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4355
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4355
+Scores:
+
+%MSG
+Begin processing the 3rd record. Run 1, Event 4357, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:57.830 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4357
+Load time: 2106
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4357
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Remote time: 23926
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 19872 usec (overhead 22 usec + queue 36 usec + compute 19814 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Client time: 29310
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4357
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4357
+Scores:
+
+%MSG
+Begin processing the 4th record. Run 1, Event 4370, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:57.864 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4370
+Load time: 1397
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4370
+Image array time: 14
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Remote time: 23434
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 19636 usec (overhead 19 usec + queue 36 usec + compute 19581 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Client time: 28761
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4370
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4370
+Scores:
+
+%MSG
+Begin processing the 5th record. Run 1, Event 4356, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:57.896 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4356
+Load time: 2799
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4356
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Remote time: 24449
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 19408 usec (overhead 18 usec + queue 86 usec + compute 19304 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Client time: 29499
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4356
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4356
+Scores:
+
+%MSG
+Begin processing the 6th record. Run 1, Event 4363, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:57.929 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4363
+Load time: 7987
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4363
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Remote time: 22996
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 19570 usec (overhead 21 usec + queue 34 usec + compute 19515 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Client time: 27514
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4363
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4363
+Scores:
+
+%MSG
+Begin processing the 7th record. Run 1, Event 4359, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:57.966 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4359
+Load time: 2784
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4359
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Remote time: 22087
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 18391 usec (overhead 18 usec + queue 26 usec + compute 18347 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:57 CDT pre-events
+Client time: 26504
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4359
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4359
+Scores:
+
+%MSG
+Begin processing the 8th record. Run 1, Event 4361, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:57.996 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4361
+Load time: 2442
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:57 CDT Run: 1 Event: 4361
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 20483
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 1
+%MSG
+  Request count: 1
+  Avg request latency: 17088 usec (overhead 15 usec + queue 26 usec + compute 17047 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 25527
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4361
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4361
+Scores:
+
+%MSG
+Begin processing the 9th record. Run 1, Event 4364, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.025 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4364
+Load time: 10081
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4364
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 20497
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 1
+%MSG
+  Request count: 1
+  Avg request latency: 17145 usec (overhead 17 usec + queue 22 usec + compute 17106 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 25176
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4364
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4364
+Scores:
+
+%MSG
+Begin processing the 10th record. Run 1, Event 4375, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.061 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4375
+Load time: 1941
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4375
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 20946
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 17096 usec (overhead 14 usec + queue 61 usec + compute 17021 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 25457
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4375
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4375
+Scores:
+
+%MSG
+Begin processing the 11th record. Run 1, Event 4371, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.089 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4371
+Load time: 2476
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4371
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 20920
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 1
+%MSG
+  Request count: 1
+  Avg request latency: 17122 usec (overhead 16 usec + queue 61 usec + compute 17045 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 25414
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4371
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4371
+Scores:
+
+%MSG
+Begin processing the 12th record. Run 1, Event 4360, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.118 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4360
+Load time: 2415
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4360
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 22468
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 1
+%MSG
+  Request count: 1
+  Avg request latency: 19080 usec (overhead 15 usec + queue 28 usec + compute 19037 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 26703
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4360
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4360
+Scores:
+
+%MSG
+Begin processing the 13th record. Run 1, Event 4369, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.148 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4369
+Load time: 8692
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4369
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 22057
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 18616 usec (overhead 15 usec + queue 68 usec + compute 18533 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 26047
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4369
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4369
+Scores:
+
+%MSG
+Begin processing the 14th record. Run 1, Event 4365, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.184 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4365
+Load time: 1773
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4365
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 21134
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 17855 usec (overhead 13 usec + queue 29 usec + compute 17813 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 25506
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4365
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4365
+Scores:
+
+%MSG
+Begin processing the 15th record. Run 1, Event 4368, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.212 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4368
+Load time: 2262
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4368
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 19651
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 1
+%MSG
+  Request count: 1
+  Avg request latency: 16519 usec (overhead 12 usec + queue 64 usec + compute 16443 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 23937
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4368
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4368
+Scores:
+
+%MSG
+Begin processing the 16th record. Run 1, Event 4374, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.239 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4374
+Load time: 2061
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4374
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 20072
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 16536 usec (overhead 13 usec + queue 74 usec + compute 16449 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 24004
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4374
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4374
+Scores:
+
+%MSG
+Begin processing the 17th record. Run 1, Event 4366, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.266 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4366
+Load time: 10186
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4366
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 18921
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 16187 usec (overhead 16 usec + queue 25 usec + compute 16146 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 23345
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4366
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4366
+Scores:
+
+%MSG
+Begin processing the 18th record. Run 1, Event 4380, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.301 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4380
+Load time: 2552
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4380
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 19164
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 16070 usec (overhead 15 usec + queue 27 usec + compute 16028 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 22866
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4380
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4380
+Scores:
+
+%MSG
+Begin processing the 19th record. Run 1, Event 4383, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.327 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4383
+Load time: 2298
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4383
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 19761
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 15995 usec (overhead 15 usec + queue 23 usec + compute 15957 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 23649
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4383
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4383
+Scores:
+
+%MSG
+Begin processing the 20th record. Run 1, Event 4367, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.354 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4367
+Load time: 10474
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4367
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 19491
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 1
+%MSG
+  Request count: 1
+  Avg request latency: 16085 usec (overhead 16 usec + queue 42 usec + compute 16027 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 23784
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4367
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4367
+Scores:
+
+%MSG
+Begin processing the 21st record. Run 1, Event 4390, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.390 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4390
+Load time: 4607
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4390
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 18611
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 15714 usec (overhead 16 usec + queue 63 usec + compute 15635 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 23107
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4390
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4390
+Scores:
+
+%MSG
+Begin processing the 22nd record. Run 1, Event 4389, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.418 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4389
+Load time: 2313
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4389
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 18894
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 1
+%MSG
+  Request count: 1
+  Avg request latency: 15730 usec (overhead 15 usec + queue 61 usec + compute 15654 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 22751
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4389
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4389
+Scores:
+
+%MSG
+Begin processing the 23rd record. Run 1, Event 4372, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.444 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4372
+Load time: 2501
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4372
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 18256
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 15717 usec (overhead 13 usec + queue 58 usec + compute 15646 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 21949
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4372
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4372
+Scores:
+
+%MSG
+Begin processing the 24th record. Run 1, Event 4376, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.470 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4376
+Load time: 10955
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4376
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 18587
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 15722 usec (overhead 14 usec + queue 57 usec + compute 15651 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 22258
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4376
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4376
+Scores:
+
+%MSG
+Begin processing the 25th record. Run 1, Event 4382, LumiSection 7 on stream 0 at 11-Mar-2020 23:29:58.504 CDT
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4382
+Load time: 2259
+%MSG
+%MSG-i TRTClient:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4382
+Image array time: 1
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Remote time: 18596
+%MSG
+%MSG-i TRTClient:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Output time: 2
+%MSG
+  Request count: 1
+  Avg request latency: 15655 usec (overhead 14 usec + queue 89 usec + compute 15552 usec)
+
+%MSG-i JetImageProducer:  (NoModuleName) 11-Mar-2020 23:29:58 CDT pre-events
+Client time: 22234
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4382
+Scores:
+
+%MSG
+%MSG-i JetImageProducer:  JetImageProducerAsync:jetImageProducer  11-Mar-2020 23:29:58 CDT Run: 1 Event: 4382
+Scores:
+
+%MSG
+11-Mar-2020 23:29:58 CDT  Closed file file:data/store_mc_RunIISpring18MiniAOD_BulkGravTohhTohbbhbb_narrow_M-2000_13TeV-madgraph_MINIAODSIM_100X_upgrade2018_realistic_v10-v1_30000_24A0230C-B530-E811-ADE3-14187741120B.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             1        1
+    2 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostGlobalEndRun                  
+    2 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  3                   3
+
+dropped waiting message count 0
